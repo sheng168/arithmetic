@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.nyholmniklas</groupId>
+    <groupId>us.jsy</groupId>
     <artifactId>arithmetic</artifactId>
     <version>1.0.0</version>
     <build>
@@ -34,7 +34,7 @@
     <description>This is a sample library for a tutorial about
         publishing to Maven Central
     </description>
-    <url>http://github.com/nyholmniklas/arithmetic</url>
+    <url>http://github.com/sheng168/arithmetic</url>
 
     <licenses>
         <license>
@@ -105,17 +105,17 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/nyholmniklas/arithmetic.git</connection>
-        <developerConnection>scm:git:ssh://github.com:nyholmniklas/arithmetic.git</developerConnection>
-        <url>http://github.com/nyholmniklas/arithmetic</url>
+        <connection>scm:git:git://github.com/sheng168/arithmetic.git</connection>
+        <developerConnection>scm:git:ssh://github.com/sheng168/arithmetic.git</developerConnection>
+        <url>http://github.com/sheng168/arithmetic</url>
     </scm>
 
     <developers>
         <developer>
-            <name>Niklas Nyholm</name>
-            <email>nyholmniklas@gmail.com</email>
-            <organization>com.github.nyholmniklas</organization>
-            <organizationUrl>http://github.com/nyholmniklas/</organizationUrl>
+            <name>Jin Yu</name>
+            <email>oss@jsy.us</email>
+            <organization>us.jsy</organization>
+            <organizationUrl>http://github.com/sheng168/</organizationUrl>
         </developer>
     </developers>
 
